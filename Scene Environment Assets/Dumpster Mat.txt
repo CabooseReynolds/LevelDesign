@@ -1,0 +1,70 @@
+Dumpster Materials
+Metal
+Machinery
+Rust 100%
+Dust 100%
+Dirt 30%
+
+Sand Material 100%
+	Dust Gradient 35%
+	1Gradient 1
+	.329
+	.174
+	.009
+
+	Gradient 2
+	.114
+	.080
+	.045
+
+	Sand Gradient 35%
+	Gradient 1
+	.383
+	.222
+	.052
+
+	Gradient 2
+	.251
+	.167
+	.080
+
+German Panzer Gelb
+	Roest 100%
+	Dirt 83%
+	Paint Bumps 100%
+	Fill Layer 1 100%
+
+Steel Tank Painted
+	Edge Wear 100%
+	Dust 100%
+	Rust 100%
+	Rusty Halo 100%
+	Stains 6%
+	Additional Bumps 100%
+	Layer 3 (Decals) 58%
+	Base 100%
+		.037
+		.062
+		.009
+
+Plastic
+Sand
+	Sand 10%
+		Gradient 1
+		.174
+		.124
+		.071
+		Gradient 2
+		.000
+		.000
+		.000
+
+Old Plastic
+	Layer 3 85%
+	Fill Layer 1 100%
+		Fill
+		.000
+		.000
+		.000
+	Layer 1 100%
+		
