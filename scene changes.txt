@@ -1,0 +1,19 @@
+Newspaper dispenser
+	Dent
+	decal on the front, bottom
+	Texture: rust on the bottom
+	Texture: add some tagging
+
+CinderBlock
+	Texture: more of a course texture, inney belly button style
+	Texture: especially on the areas that are broken
+	Texture: Saved reference in downloads as an example
+
+cement barricades
+	Texture:  more inney with the rocks
+	Texture:  more discoloration with the rock colors
+	Texture:  add more discolloration
+rebar
+	Texture: darken the rust up
+
+
